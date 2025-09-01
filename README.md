@@ -1,4 +1,4 @@
-# TRAIN AND DEPLOY OPEN LLMS WITH AMAZON SAGEMAKER
+# Train and Deploy Mistral7B on Amazon Sagemaker
 
 Model: <https://huggingface.co/mistralai/Mistral-7B-v0.1>
 
